@@ -1,0 +1,10 @@
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\bin\Debug\CompanyNew.exe.config
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\bin\Debug\CompanyNew.exe
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\bin\Debug\CompanyNew.pdb
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\obj\Debug\CompanyNew.csproj.AssemblyReference.cache
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\obj\Debug\CompanyNew.Form1.resources
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\obj\Debug\CompanyNew.Properties.Resources.resources
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\obj\Debug\CompanyNew.csproj.GenerateResource.cache
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\obj\Debug\CompanyNew.csproj.CoreCompileInputs.cache
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\obj\Debug\CompanyNew.exe
+C:\Users\haito\Downloads\CompanyNew\CompanyNew\obj\Debug\CompanyNew.pdb
