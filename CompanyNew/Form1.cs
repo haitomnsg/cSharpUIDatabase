@@ -31,11 +31,11 @@ namespace CompanyNew
             try
             {
                 conn.Open();
-                MessageBox.Show("Connection Successful.");
+                MessageBox.Show("Database Connection Successful.");
             }
             catch
             {
-                MessageBox.Show("Connection Failed.");
+                MessageBox.Show("Database Connection Failed.");
             }
         }
 
